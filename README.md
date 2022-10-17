@@ -1,7 +1,7 @@
 # ChatBotProject
 A simple AIML based Chat Bot written in C# which is a computer program that you can talk to.
 
-Second Semester Object Oriented Programming Final Project at The University of Texas at Arlington, Texas, United States.
+
 
 
 # Features
@@ -29,6 +29,5 @@ Here are some things you can say to the bot.
 
 
 # Team
-* Varshkumar Patel (1001639213)
-* Vatsalkumar Patel (1001745268)
-* Andrew Chin (1001458953)
+* Vatsal Patel 
+* Aman Kaur Randhawa
